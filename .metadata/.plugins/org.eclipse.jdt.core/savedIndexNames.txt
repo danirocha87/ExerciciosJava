@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\danio\OneDrive\Área de Trabalho\.metadata\.plugins\org.eclipse.jdt.core
+1941286410.index
+697301570.index
+78814876.index
+1865797976.index
