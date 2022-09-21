@@ -1,0 +1,24 @@
+package Heranca;
+
+import java.util.Scanner;
+
+public class TestarAnimais {
+
+	public static void main(String[] args) {
+
+		Scanner input = new Scanner(System.in);
+
+		Cachorro cachorro = new Cachorro();
+		Cavalo cavalo = new Cavalo();
+		Preguica preguica = new Preguica();
+
+		System.out.println("#### Exemplo de Herança com animais ####\n");
+
+		System.out.println("Insira os dados do Cachorro, Cavalo e Bicho Preguiça:");
+
+		System.out.print("\nNome do cachorro: ");
+		cachorro.setNome(input.next());
+		System.out.print("Idade: ");
+		cachorro.setIda
+		
+	}

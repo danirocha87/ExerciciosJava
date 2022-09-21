@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+C:\Users\danio\OneDrive\Área de Trabalho\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
